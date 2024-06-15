@@ -1,2 +1,2 @@
-# tea-cryptoDive
+# Tea-cryptoDive
 OSS project on the tea protocol
