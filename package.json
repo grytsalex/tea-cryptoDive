@@ -1,0 +1,11 @@
+{
+  "name": "tea-cryptodive",
+  "version": "1.0.0",
+  "description": "tea OSS project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "grytsalex",
+  "license": "ISC"
+}
